@@ -24,6 +24,12 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
+				'ai-gradient': 'var(--ai-gradient)',
+				'message-user': 'hsl(var(--message-user))',
+				'message-assistant': 'hsl(var(--message-assistant))',
+				'chat-background': 'hsl(var(--chat-background))',
+				'glass-bg': 'hsl(var(--glass-bg))',
+				'glass-border': 'hsl(var(--glass-border))',
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
